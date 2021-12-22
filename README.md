@@ -1,5 +1,6 @@
-# Learning Javascript with Christa
-
-## The topics are:
-
-- ### Fundamentals Part 1
+# Commands
+`
+git add .
+git commit -m"message ushakwa kwandika"
+git push
+`
